@@ -2,8 +2,8 @@ Summary:	XShipWars graphics (Babylon5 theme)
 Summary(pl):	Grafika do XShipWars (motyw Babylon5)
 Name:		xsw-babylon5images
 Version:	1.0
-Release:	1
-License:	Modified GPL
+Release:	2
+License:	GPL-like
 Group:		Applications/Games
 Source0:	ftp://gd.tuwien.ac.at/games/wolfpack/babylon5images%{version}.tar.bz2
 Source1:	ftp://gd.tuwien.ac.at/games/wolfpack/babylon5.ocsn.gz
