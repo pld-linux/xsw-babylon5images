@@ -5,8 +5,6 @@ Version:	1.0
 Release:	1
 License:	Modified GPL
 Group:		Applications/Games
-Group(de):	Applikationen/Spiele
-Group(pl):	Aplikacje/Gry
 Source0:	ftp://gd.tuwien.ac.at/games/wolfpack/babylon5images%{version}.tar.bz2
 Source1:	ftp://gd.tuwien.ac.at/games/wolfpack/babylon5.ocsn.gz
 URL:		http://wolfpack.twu.net/ShipWars/XShipWars/
