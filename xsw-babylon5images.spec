@@ -6,7 +6,9 @@ Release:	2
 License:	GPL-like
 Group:		Applications/Games
 Source0:	ftp://gd.tuwien.ac.at/games/wolfpack/babylon5images%{version}.tar.bz2
+# Source0-md5:	88b877a805aa3839c9eec96c5744a5d9
 Source1:	ftp://gd.tuwien.ac.at/games/wolfpack/babylon5.ocsn.gz
+# Source1-md5:	311289c319d87b1d2afa4df7c6c609d2
 URL:		http://wolfpack.twu.net/ShipWars/XShipWars/
 Provides:	xsw-images
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
