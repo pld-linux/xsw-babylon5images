@@ -11,7 +11,6 @@ URL:		http://wolfpack.twu.net/ShipWars/XShipWars/
 Provides:	xsw-images
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_prefix	/usr/X11R6
 
 %description
 XShipWars is a highly customizable and massivly multiplayer space
