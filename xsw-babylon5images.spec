@@ -1,5 +1,5 @@
 Summary:	XShipWars graphics (Babylon5 theme)
-Summary(pl):	Grafika do XShipWars (motyw Babylon5)
+Summary(pl.UTF-8):   Grafika do XShipWars (motyw Babylon5)
 Name:		xsw-babylon5images
 Version:	1.1
 Release:	1
@@ -19,7 +19,7 @@ XShipWars is a highly customizable and massivly multiplayer space
 gamming system designed for play entirly over the Internet. This
 package contains Babylon5 graphics theme for the game.
 
-%description -l pl
+%description -l pl.UTF-8
 XShipWars to wysoko konfigurowalny system gry w przestrzeni kosmicznej
 dla wielu graczy, zaprojektowany do grania przez Internet. Ten pakiet
 zawiera motyw graficzny Babylon5 dla tej gry.
