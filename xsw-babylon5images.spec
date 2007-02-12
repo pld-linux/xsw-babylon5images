@@ -1,5 +1,5 @@
 Summary:	XShipWars graphics (Babylon5 theme)
-Summary(pl.UTF-8):   Grafika do XShipWars (motyw Babylon5)
+Summary(pl.UTF-8):	Grafika do XShipWars (motyw Babylon5)
 Name:		xsw-babylon5images
 Version:	1.1
 Release:	1
